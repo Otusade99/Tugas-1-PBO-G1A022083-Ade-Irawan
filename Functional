@@ -1,0 +1,5 @@
+def soal(x,y):
+	a = x+2*y
+	return a / (2*y+x)
+
+print(murni(3,4))
