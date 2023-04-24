@@ -1,0 +1,8 @@
+class MobilSedan:
+    warna= 'Merah'
+    jenis= 'Sedan'
+sedan= MobilSedan()      
+print('-- Mobil Sedan --')
+print('Memiliki: ')
+print('Warna Mobil : ',sedan.warna)
+print('Jenis Mobil : ',sedan.jenis)
